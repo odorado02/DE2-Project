@@ -56,6 +56,10 @@ The hardware is composed by 7 components:
 
 ## Software description
 
+Conceptual flowchart:
+
+![Conceptual flowchart drawio](https://github.com/odorado02/DE2-Project/assets/147071596/4b1f3d78-3855-4ed2-99ea-07d8a36d94fa)
+
 List of codes:
 
 1. `main.py`: This is the main program to run. This program configures the timers, the global variables, updates the displays and sets the alarm.
