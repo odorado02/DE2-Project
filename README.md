@@ -64,12 +64,12 @@ In binary, for the values that equal 1 in the hour on binary, the display shows 
 
 **Setting Alarm**
 
-- Press "*" to start.
-- Write your alarm by pressing 4 numbers (correct form: HHmm), otherwise there will be an error and the red led will turn on.
-- Press "A" (Accept) if the alarm time is the one you want. Otherwise press "C" (Cancel) and repeat step 2.
-- If you want to change the alarm set, repeat steps 1 2 3 again.
-- The alarm buzzer will sound when the alarm time is the same as the current time.
-- To stop the alarm buzzer the blue button needs to be pressed.
-- To delete the alarm you can press "*" to set a new alarm or you can press "D" to delete the current alarm and not to configure another alarm.
+1. Press "*" to start.
+1. Write your alarm by pressing 4 numbers (correct form: HHmm), otherwise there will be an error and the red led will turn on.
+1. Press "A" (Accept) if the alarm time is the one you want. Otherwise press "C" (Cancel) and repeat step 2.
+1. If you want to change the alarm set, repeat steps 1 2 3 again.
+1. The alarm buzzer will sound when the alarm time is the same as the current time.
+1. To stop the alarm buzzer the blue button needs to be pressed.
+1. To delete the alarm you can press "*" to set a new alarm or you can press "D" to delete the current alarm and not to configure another alarm.
 
 
