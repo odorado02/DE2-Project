@@ -10,7 +10,7 @@
 
 *Task: Digital clock Max 2 groups. Design and implement a digital clock using the MicroPython programming language on the ESP32 microcontroller. The clock will not only display the current time in both decimal and binary formats but will also include additional features such as alarms and synchronization with network time servers*
 
-The digital clock is firstly connected to the network in order to get the current time as fast as possible. This process is repeated every second using a timer. Next, the display shows the current time in binary and in normal format and they are updated every second also.
+The digital clock is firstly connected to the network in order to get the current time as fast as possible. The process of taking the time is repeated every second using a timer. Next, the display shows the current time in binary and in normal format and they are updated every second also.
 
 Apart from that, alarms can be set as soon as the digital clock gets the current time. On the one hand, there is a keypad with which you can write the alarm time and the value is saved automatically in the code; Furthermore, whenever the hour written is not coherent, a red light is turned on with a view to warn you about the error and the value is eliminated. On the other hand, there is a buzzer that starts working when the alarm set matches the current time and button to stop such alarm.
 
