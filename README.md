@@ -87,5 +87,5 @@ In binary, for the values that equal 1 in the hour on binary, the display shows 
 ## References
 
 - Code:
-    -  `tm1367` library: https://github.com/mcauser/micropython-tm1637/blob/master/tm1637.py
-    -  https://github.com/tomas-fryza/esp-micropython
+    -  mcauser, "micropython-tm1637" [Online]. Available: https://github.com/mcauser/micropython-tm1637.git
+    -  T. Fryza, “MicroPython on ESP32/ESP8266 microcontollers.” [Online]. Available: https://github.com/tomas-fryza/esp-micropython
