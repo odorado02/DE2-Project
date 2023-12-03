@@ -24,13 +24,36 @@ The hardware is composed by 7 components:
 
 - ESP32 microcontroller: The component which runs all the program and coordinates all the other components. Also is the ono which connects to the network in order to get the hour.
 
-Keypad: 
-LCD screen module:
-LED display:
-Red LED:
-Multi-function shield:
-Resistance:
-Button???????????
+![DFR0478_pinout](https://github.com/odorado02/DE2-Project/assets/147071596/2956e84d-94d4-4496-9a73-d8aec0ac8f43)
+
+- Keypad: Used to set the alarm configuration.
+
+![SW-KEYPAD-MEM-4X4-800x800](https://github.com/odorado02/DE2-Project/assets/147071596/71590375-a94c-4f7e-bc0c-013cf2f32011)
+
+- LCD screen module: Display used to show the time in binary.
+
+![pmod_clp_vetsi](https://github.com/odorado02/DE2-Project/assets/147071596/3980f3cf-db62-42bc-9afa-33a6c91bd2a3)
+
+- 7 segment LED display module: Display used to show the time in normal format.
+
+![TM1637-7segment_over-965x676](https://github.com/odorado02/DE2-Project/assets/147071596/3863e896-ed7a-43d6-9130-6c2febf03244)
+
+- Red LED: This led will turn on when the alarm set is incorrect.
+
+![5mm red-800x800](https://github.com/odorado02/DE2-Project/assets/147071596/f71aac22-09a5-40e8-a4d9-aef7ff05a5c9)
+
+- Multi-function shield: Although this module has a lot of different functions we only used the buzzer from it. When time reaches the alarm hour the buzzer will turn on.
+
+![71UdT2Dw40L](https://github.com/odorado02/DE2-Project/assets/147071596/1b4324a8-233a-4bef-a492-47ee81762e16)
+
+- Resistance:
+
+![31j9N+LKvIL _AC_UF894,1000_QL80_](https://github.com/odorado02/DE2-Project/assets/147071596/aa801cf2-aa3d-4b31-8ce6-42dd8f21281d)
+
+- Button: Used to stop the alarm.
+
+![interruptor-push-button-botones-con-tapa-capucha-de-colores](https://github.com/odorado02/DE2-Project/assets/147071596/033e2776-20c4-4a4b-9f6e-74076d80a5df)
+
 
 ##Software description
 
