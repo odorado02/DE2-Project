@@ -16,7 +16,7 @@ Apart from that, alarms can be set as soon as the digital clock gets the current
 
 ## Hardware description and demo application
 
-Insert descriptive text and schematic(s) of your implementation.
+In the next image you can see our hole composition:
 
 ![IMG_2538](https://github.com/odorado02/DE2-Project/assets/147071596/64031a4d-3fd3-4cf4-825a-d9b72c0b244e)
 
