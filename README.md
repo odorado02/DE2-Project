@@ -66,7 +66,7 @@ List of codes:
 
 1. `BinaryHourDisplay.py`: This program is the one in charge of displaying the binary time in the LCD display.
 
-1. `wifiConnection.py`: This program connects the ESP32 to the wifi network and there are also functions to ask for the current time. `tm1367`is
+1. `wifiConnection.py`: This program connects the ESP32 to the wifi network and there are also functions to ask for the current time. `tm1367`is the respective library.
 
 1. `DecimalHourDisplay.py`: This code is the one in charge of displaying the decimal hour in the seven segment module display. We downloaded a library `tm1637` for the display.
 
