@@ -72,6 +72,8 @@ List of codes:
 
 1. `ScanMatrixKeypad.py`: This function scans the key pressed in the matrix keypad and returns its value.
 
+*All flowcharts of the respective codes and functions have been added into the repository*
+
 ## Instructions
 
 **Binary Clock**
