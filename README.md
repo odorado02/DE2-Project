@@ -62,23 +62,21 @@ Conceptual flowchart:
 
 List of codes:
 
-1. `main.py`: This is the main program to run. This program configures the timers, the global variables, updates the displays and sets the alarm.
+1. [`main.py`](https://github.com/odorado02/DE2-Project/blob/fcf2d42477963972f672c5274e17a4df2c203d60/Main.py): This is the main program to run. This program configures the timers, the global variables, updates the displays and sets the alarm.
 
-1. `BinaryHourDisplay.py`: This program is the one in charge of displaying the binary time in the LCD display.
+1. [`BinaryHourDisplay.py`](https://github.com/odorado02/DE2-Project/blob/9618fe0611fda53290256c87166cc82744c18ec6/BinaryHourDisplay.py): This program is the one in charge of displaying the binary time in the LCD display.
 
-1. `wifiConnection.py`: This program connects the ESP32 to the wifi network and there are also functions to ask for the current time. `tm1367`is the respective library.
+1. [`wifiConnection.py`](https://github.com/odorado02/DE2-Project/blob/fcf2d42477963972f672c5274e17a4df2c203d60/WifiConnection.py): This program connects the ESP32 to the wifi network and there are also functions to ask for the current time. `tm1367`is the respective library.
 
-1. `DecimalHourDisplay.py`: This code is the one in charge of displaying the decimal hour in the seven segment module display. We downloaded a library `tm1637` for the display.
+1. [`DecimalHourDisplay.py`](https://github.com/odorado02/DE2-Project/blob/fcf2d42477963972f672c5274e17a4df2c203d60/DecimalHourDisplay.py): This code is the one in charge of displaying the decimal hour in the seven segment module display. We downloaded a library `tm1637` for the display.
 
-1. `ScanMatrixKeypad.py`: This function scans the key pressed in the matrix keypad and returns its value.
+1. [`ScanMatrixKeypad.py`](https://github.com/odorado02/DE2-Project/blob/fcf2d42477963972f672c5274e17a4df2c203d60/ScanMatrixKeyPad.py): This function scans the key pressed in the matrix keypad and returns its value.
 
 *All flowcharts of the respective codes and functions have been added into the repository*
 
 ## Instructions
 
-*Short video*
-
-https://drive.google.com/file/d/1OMqX3RkZyKgxi6WhY67Ui5PE5L0LpFwY/view?usp=drive_link
+[*Short video*](https://drive.google.com/file/d/1OMqX3RkZyKgxi6WhY67Ui5PE5L0LpFwY/view?usp=drive_link)
 
 **Binary Clock**
 
