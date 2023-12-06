@@ -76,6 +76,10 @@ List of codes:
 
 ## Instructions
 
+*Short video*
+
+https://drive.google.com/file/d/1OMqX3RkZyKgxi6WhY67Ui5PE5L0LpFwY/view?usp=drive_link
+
 **Binary Clock**
 
 In binary, for the values that equal 1 in the hour on binary, the display shows black blocks, and similarly, for the values that equal zero, the display leaves the blocks in blank.
